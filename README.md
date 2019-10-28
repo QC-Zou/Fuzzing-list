@@ -23,5 +23,5 @@ Some state-of-the-art fuzzing stuff, including papers, github projects, blog art
 
 ## benchmark 
 
-# A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. https://github.com/HexHive/magma
+A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. https://github.com/HexHive/magma
 
